@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firechat-ed5ed": {
+      "hosting": {
+        "firechat": [
+          "firechat-ed5ed"
+        ]
+      }
+    }
+  }
+}
